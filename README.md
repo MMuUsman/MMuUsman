@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mian Muhammad Usman 🚀
+**Full Stack Web Developer | BSCS Student at Iqra University**
 
-<!--
-**MMuUsman/MMuUsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build fast, accessible, end-to-end web applications, available for freelance work and internship opportunities!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Skills
+- **Frontend & Backend:** React, Next.js, Node.js, TypeScript, Flutter
+- **Tools:** Git, GitHub, Cursor AI
+
+---
+
+## 📬 Let's Build Something Great
+- **Email:** workinga199430@gmail.com
+- **Location:** Remote / Worldwide
