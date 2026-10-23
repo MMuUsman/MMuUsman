@@ -3,11 +3,11 @@
   <code>// usman.dev</code>
   
   # Mian Muhammad Usman
-  ### Frontend Web Developer &nbsp;|&nbsp; Interactive Web Experiences
+  ### Frontend Web Developer &nbsp;|&nbsp; Interactive & 3D Web Experiences
 
   <p align="center">
-    Building modern, responsive interfaces with a focus on interactive UI, fluid motion,<br/>
-    scroll-driven transitions, and 3D web experiences.
+    Engineering modern, responsive interfaces with a focus on interactive UI, fluid motion,<br/>
+    scroll-driven animations, and 3D web experiences.
   </p>
 
   <p align="center">
@@ -34,9 +34,9 @@
 
 ### `// about_me`
 
-I am a Frontend & Full-Stack Web Developer and Computer Science (BSCS) undergraduate at **Iqra University**. My work centers on engineering fast, accessible, and visually engaging web applications—combining solid architectural foundations with interactive frontend craftsmanship.
+I am a Frontend & Full-Stack Web Developer and Computer Science (BSCS) undergraduate at **Iqra University**. My work centers on engineering fast, accessible, and visually engaging web applications—combining solid full-stack architecture with interactive frontend craftsmanship.
 
-Rather than building static layouts, I focus on **interfaces that respond to the user**: cursor-reactive elements, refined hover states, smooth scroll transitions, and modular component architectures. Alongside crafting interactive frontend experiences with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**, I also architect backend services, relational databases, and full-stack platforms such as Learning Management Systems (LMS).
+Rather than building static websites, I specialize in **interfaces that respond to the user**: cursor-reactive elements, physics-based hover states, choreographed scroll transitions, and interactive 3D scenes. I pair modern frontend frameworks (**React**, **Next.js**, **TypeScript**, **Tailwind CSS**) with motion and 3D tooling (**Framer Motion**, **GSAP**, **Three.js**, **React Three Fiber**) while maintaining strong backend fundamentals in **Node.js** and **MySQL**.
 
 ---
 
@@ -47,17 +47,17 @@ Rather than building static layouts, I focus on **interfaces that respond to the
     <td width="50%" valign="top">
       <h4>✨ Interactive & Motion-Driven UI</h4>
       <ul>
-        <li><b>Mouse & Hover Interactions:</b> Cursor-reactive effects, magnetic elements, and tactile micro-interactions.</li>
-        <li><b>Scroll-Based Animations:</b> Choreographed viewport transitions and narrative scrolling experiences.</li>
-        <li><b>Dynamic UI States:</b> Real-time interface updates driven by user input and application state.</li>
+        <li><b>Mouse & Hover Interactions:</b> Cursor-tracking effects, magnetic buttons, 3D tilt cards, and tactile micro-interactions.</li>
+        <li><b>Scroll-Based Animations:</b> Pinned scroll timelines, parallax depth, and smooth inertia scrolling with GSAP & Lenis.</li>
+        <li><b>Dynamic UI Transitions:</b> Layout animations, gesture-driven drawers, and state-reactive interfaces using Motion.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🧊 3D Web & Component Systems</h4>
       <ul>
-        <li><b>3D Web Experiences:</b> Interactive 3D portfolio environments and spatial UI concepts.</li>
-        <li><b>Modern Web Applications:</b> Creative landing pages, interactive dashboards, and responsive storefronts.</li>
-        <li><b>Reusable UI Architecture:</b> Scalable design systems and lightweight, composable UI components.</li>
+        <li><b>3D Web Experiences:</b> Interactive 3D portfolio scenes, custom WebGL canvases, and spatial UI built with Three.js & R3F.</li>
+        <li><b>Creative Web Applications:</b> High-impact landing pages, interactive dashboards, and responsive e-commerce storefronts.</li>
+        <li><b>Reusable UI Architecture:</b> Scalable design systems and lightweight, composable animation-ready UI primitives.</li>
       </ul>
     </td>
   </tr>
@@ -67,7 +67,7 @@ Rather than building static layouts, I focus on **interfaces that respond to the
 
 ### `// tech_stack`
 
-**Frontend & UI Engineering**  
+**Frontend Core**  
 ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -75,6 +75,15 @@ Rather than building static layouts, I focus on **interfaces that respond to the
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
+
+**3D, Animation & Interactive Motion**  
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Motion_/_Framer_Motion-111827?style=flat-square&logo=framer&logoColor=0055FF)
+![GSAP](https://img.shields.io/badge/GSAP_&_ScrollTrigger-111827?style=flat-square&logo=greensock&logoColor=88CE02)
+![WebGL](https://img.shields.io/badge/WebGL-111827?style=flat-square&logo=webgl&logoColor=E03131)
+![Lenis](https://img.shields.io/badge/Lenis_Smooth_Scroll-111827?style=flat-square&logoColor=white)
+![CSS Keyframes](https://img.shields.io/badge/CSS_3D_&_Animations-111827?style=flat-square&logo=css3&logoColor=1572B6)
 
 **Backend, Database & Cross-Platform**  
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933)
@@ -94,9 +103,9 @@ Rather than building static layouts, I focus on **interfaces that respond to the
 
 | Project | Overview & Technical Focus | Links |
 | :--- | :--- | :--- |
-| **Rovado E-Commerce** | Modern tech e-commerce storefront featuring dynamic product catalog views, responsive layout architecture, and interactive shopping flows.<br/><sub>`JavaScript` · `Responsive UI` · `Frontend Architecture`</sub> | [🌐 Live Demo](https://rovado-ecommerce.vercel.app)<br/>[💻 Source Code](https://github.com/MMuUsman/rovado-ecommerce-) |
-| **usman.dev — Personal Portfolio** | Interactive developer portfolio featuring a custom AI assistant widget (`Usman Assistant`), dark-themed UI system, smooth navigation, and project showcase.<br/><sub>`Next.js` · `TypeScript` · `Tailwind CSS` · `Cursor AI`</sub> | [🌐 Live Demo](https://mian-usman-portfolio.vercel.app/)<br/>[💻 Source Code](https://github.com/MMuUsman/my-portfolio) |
-| **Frontend Portfolio** | Lightweight, responsive web portfolio engineered with core web standards, custom CSS layouts, and interactive DOM scripting.<br/><sub>`HTML5` · `CSS3` · `JavaScript`</sub> | [🌐 Live Demo](https://mian-usman-portfolio.vercel.app/)<br/>[💻 Source Code](https://github.com/MMuUsman/frontend-portfolio) |
+| **Rovado E-Commerce** | Modern tech e-commerce storefront featuring dynamic product catalog views, interactive hover states, responsive layout architecture, and shopping flows.<br/><sub>`JavaScript` · `Interactive UI` · `Responsive Design`</sub> | [🌐 Live Demo](https://rovado-ecommerce.vercel.app)<br/>[💻 Source Code](https://github.com/MMuUsman/rovado-ecommerce-) |
+| **usman.dev — Personal Portfolio** | Interactive developer portfolio featuring a custom AI assistant widget (`Usman Assistant`), dark-themed UI system, smooth section transitions, and project showcase.<br/><sub>`Next.js` · `TypeScript` · `Tailwind CSS` · `Cursor AI`</sub> | [🌐 Live Demo](https://mian-usman-portfolio.vercel.app/)<br/>[💻 Source Code](https://github.com/MMuUsman/my-portfolio) |
+| **Frontend Portfolio** | Lightweight, responsive web portfolio engineered with core web standards, custom CSS animations, and interactive DOM scripting.<br/><sub>`HTML5` · `CSS3` · `JavaScript`</sub> | [🌐 Live Demo](https://mian-usman-portfolio.vercel.app/)<br/>[💻 Source Code](https://github.com/MMuUsman/frontend-portfolio) |
 
 <div align="right">
   <a href="https://github.com/MMuUsman?tab=repositories"><b>View all repositories on GitHub →</b></a>
@@ -106,12 +115,12 @@ Rather than building static layouts, I focus on **interfaces that respond to the
 
 ### `// currently_exploring`
 
-My current technical roadmap is focused on pushing interactivity and performance in the browser:
+My current development roadmap focuses on pushing real-time interactivity and 60fps motion in the browser:
 
-- **3D & Spatial Web Experiences:** Building interactive 3D portfolio scenes, camera transitions, and object manipulation in the browser.
-- **Advanced Motion Engineering:** Designing physics-based hover states, cursor tracking, and scroll-triggered storytelling.
-- **Interactive Dashboards & Data UI:** Creating high-density, responsive interfaces that react fluidly to real-time user actions.
-- **Lightweight UI Framework / Component System:** Designing a custom collection of accessible, reusable, animation-ready UI primitives with minimal overhead.
+- **Interactive 3D Web Environments:** Building reactive 3D scenes, lighting rigs, and camera transitions using **Three.js**, **React Three Fiber (R3F)**, and **Drei**.
+- **Scroll-Driven Storytelling:** Choreographing multi-step timelines, pinned sections, and smooth scroll physics with **GSAP ScrollTrigger** and **Lenis**.
+- **Micro-Interactions & Gesture UI:** Crafting magnetic cursor effects, spring-physics hover states, and shared layout transitions with **Motion (Framer Motion)**.
+- **Lightweight UI Framework / Component System:** Architecting a custom library of accessible, copy-pasteable interactive UI components for React and Tailwind CSS.
 
 ---
 
